@@ -6,6 +6,8 @@ key.tg.armor_ability=Armor Ability
 key.tg.lense_gui=Open Lense GUI
 
 //Items
+item.tg.name=Thaumic Gadgets' Symbol
+
 item.tool_gemcutter.name=Gemcutter's Tools
 
 item.yarn.name=Yarn
@@ -133,6 +135,17 @@ item.light_rose_seed.name=Light Rose Seed
 item.light_petal.name=Light Rose Petal
 
 //Blocks
+
+tile.eye_ph.name=Eye of the Ancient
+tile.spire_ph.name=Greater Spire
+tile.stab_1_ph.name=Ancient Holder
+tile.stab_2_ph.name=Pillar of Creation
+tile.obsidian_ph.name=Obsidian Corner
+tile.soul_sand_ph.name=Soul Sand Pile
+tile.nether_bricks_ph.name=Nether Bricks Edge
+tile.teleportator_core_ph.name=Teleportator Core
+tile.teleportator_frame_ph.name=Teleportator Frame
+tile.teleportator_floor_ph.name=Teleportator Base
 
 tile.block_shade.name=Shaded Metal Block
 tile.block_light.name=Block of Light Metal
