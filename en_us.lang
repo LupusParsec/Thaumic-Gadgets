@@ -218,6 +218,11 @@ tile.teleportator_floor.name=Platform
 tile.teleportator_core.name=Spatial Matrix
 tile.teleportator.name=Teleportator
 
+tile.eldrich_core.name=Pocket Eldrich
+tile.lit_eldrich_core.name=Pocket Eldrich
+tile.ench_obs.name=Enchanted Obsidian
+tile.ench_obs_dummy.name=Enchanted Obsidian
+
 //tabs
 itemGroup.gadgets=Thaumic Gadgets
 
@@ -241,11 +246,11 @@ research.TG_BETTER_WEAVING.stage.2=Combining the previous success and new knowle
 
 research.TG_FLYING_CARPET.title=Flying Carpet
 research.TG_FLYING_CARPET.stage.1=Placeholder start research
-research.TG_FLYING_CARPET.stage.2=Placeholde finish research
+research.TG_FLYING_CARPET.stage.2=Placeholder finish research
 
 research.TG_BETTER_FLYING_CARPET.title=Better Flying Carpet
 research.TG_BETTER_FLYING_CARPET.stage.1=Placeholder start research
-research.TG_BETTER_FLYING_CARPET.stage.2=Placeholde finish research
+research.TG_BETTER_FLYING_CARPET.stage.2=Placeholder finish research
 
 research.TG_BAGS.title=Magic Bags
 research.TG_BAGS.stage.1=You constantly do not have enough pockets to carry all these things. Always like this. Just go in search of adventure - and find something interesting, and then more, more... And already full pockets... You need to solve this problem.
@@ -265,19 +270,19 @@ research.TG_VOID_BAG.stage.2=Void bag will destroy any items that you catch and 
 
 research.TG_CAPES.title=Capes
 research.TG_CAPES.stage.1=Placeholder start research
-research.TG_CAPES.stage.2=Placeholde finish research
+research.TG_CAPES.stage.2=Placeholder finish research
 
 research.TG_CAPE_PHOENIX.title=Cape of Phoenix
 research.TG_CAPE_PHOENIX.stage.1=Placeholder start research
-research.TG_CAPE_PHOENIX.stage.2=Placeholde finish research
+research.TG_CAPE_PHOENIX.stage.2=Placeholder finish research
 
 research.TG_CAPE_WOLF.title=Wolf Cape
 research.TG_CAPE_WOLF.stage.1=Placeholder start research
-research.TG_CAPE_WOLF.stage.2=Placeholde finish research
+research.TG_CAPE_WOLF.stage.2=Placeholder finish research
 
 research.TG_CAPE_NECRO.title=Necromancer Cape
 research.TG_CAPE_NECRO.stage.1=Placeholder start research
-research.TG_CAPE_NECRO.stage.2=Placeholde finish research
+research.TG_CAPE_NECRO.stage.2=Placeholder finish research
 
 research.TG_TERRAMORFER.title=Terramorfer
 research.TG_TERRAMORFER.stage.1=In your wanderings, you have met many different biomes: forest, savanna, tundra, desert, swamps and many other. You came up with the idea of creating a terramorfer that would allow you to change the biome to the one you want...
@@ -289,6 +294,9 @@ research.TG_ALCHEMY.stage.2=And it turned out much more than you thought. A pair
 research.TG_ALCHEMY.shade=Adding a little Tenebrae it dawned on you that the darkness is also material. And it is quite useful.
 research.TG_ALCHEMY.light=Adding a little Lux dawned on you that the light is also material. And even quite useful.
 
+research.TG_POCKET_ELDRICH.title=Pocket Eldritch
+research.TG_POCKET_ELDRICH.stage.1=Experimenting with changing the soil you are thinking, is it possible to change not only the material world? Indeed, in essence, portals are a “change” of the material world - a tear of the fabric of the reality of different dimensions. Worm-hole. And what if you try to break in reality, but not so chaotic, which is caused by flux, but more stable and larger. Who knows what awaits you for him ...
+research.TG_POCKET_ELDRICH.stage.2=You managed to create a car and called it "Eldrich's pocket measurement." But it does not work exactly as you planned. It does not transfer you to another dimension. It brings another dimension to you ... However, that dwells in it. Ordinary earth blocks are unstable, even obsidian. Therefore, you have created Enchanted Obsidian, able to contain the power of a space alien to this world. You also created a special block - the core, which can create a gap in the fabric of reality and transfer part of it to its position. The machine is designed in such a way as to fully protect the outside world from the dangers - the contour becomes indestructible as soon as you invoke a different reality. Everything will come back as soon as the entity is destroyed... Or as soon as you die...
 
 research.TG_AGEING_STONE.title=Ageing Stone
 research.TG_AGEING_STONE.stage.1=Sometimes, sitting for hours at the fireplace with a hot mug of tea, you wondered what time is, and whether it is possible to manage it locally. And one of these evenings, it seems, you have found a solution...
@@ -345,11 +353,11 @@ research.TG_SCYTHES.light=A Light scythe, as well as a taum-scythe, cuts down le
 
 research.TG_SCYTHE_OF_DEATH.title=Scythe of Death
 research.TG_SCYTHE_OF_DEATH.stage.1=Placeholder start research
-research.TG_SCYTHE_OF_DEATH.stage.2=Placeholde finish research
+research.TG_SCYTHE_OF_DEATH.stage.2=Placeholder finish research
 
 research.TG_GARMENT_OF_DEATH.title=Garment of Death
 research.TG_GARMENT_OF_DEATH.stage.1=Placeholder start research
-research.TG_GARMENT_OF_DEATH.stage.2=Placeholde finish research
+research.TG_GARMENT_OF_DEATH.stage.2=Placeholder finish research
 
 research.TG_JEWELLERY.title=Jewellery
 research.TG_JEWELLERY.stage.1=Once you accidentally spilled some of the essence on the stone and he... Filled with it. Having studied its properties, you thought that why not try it with other stones and essences?
@@ -363,11 +371,11 @@ research.TG_LENSES.stage.3=Experiments with the filing of the same essence on th
 
 research.TG_RINGS.title=Rings
 research.TG_RINGS.stage.1=Placeholder start research
-research.TG_RINGS.stage.2=Placeholde finish research
+research.TG_RINGS.stage.2=Placeholder finish research
 
 research.TG_RING_ASPECT.title=Aspect Ring
 research.TG_RING_ASPECT.stage.1=Placeholder start research
-research.TG_RING_ASPECT.stage.2=Placeholde finish research
+research.TG_RING_ASPECT.stage.2=Placeholder finish research
 
 research.TG_COMPASS.title=Seeker Amulet
 research.TG_COMPASS.stage.1=A normal compass points to the north. Ender Eye - to the nearest portal in the End. And this amulet? Seeker Amulet... Where is he pulling you?
