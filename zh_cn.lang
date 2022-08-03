@@ -6,6 +6,9 @@ key.tg.armor_ability=装甲能力
 key.tg.lense_gui=打开透镜菜单
 
 //Items
+
+item.tg.name=Thaumic Gadgets' Symbol
+
 item.tool_gemcutter.name=珠宝雕刻师的工具
 
 item.yarn.name=纺线
@@ -134,6 +137,17 @@ item.light_petal.name=光明玫瑰花瓣
 
 //Blocks
 
+tile.eye_ph.name=Eye of the Ancient
+tile.spire_ph.name=Greater Spire
+tile.stab_1_ph.name=Ancient Holder
+tile.stab_2_ph.name=Pillar of Creation
+tile.obsidian_ph.name=Obsidian Corner
+tile.soul_sand_ph.name=Soul Sand Pile
+tile.nether_bricks_ph.name=Nether Bricks Edge
+tile.teleportator_core_ph.name=Teleportator Core
+tile.teleportator_frame_ph.name=Teleportator Frame
+tile.teleportator_floor_ph.name=Teleportator Base
+
 tile.block_shade.name=暗影金属块
 tile.block_light.name=光明金属块
 tile.ore_light.name=光明矿石
@@ -191,6 +205,7 @@ tile.light_rose.name=光明玫瑰
 enchantment.regen_primal=元始修复
 
 //description
+
 teleportator.description.name=传送塔名称:
 teleportator.description.pos=方位:
 teleportator.description.choose_address=选择你想去的地点:
@@ -211,15 +226,114 @@ tile.ench_obs.name=附魔黑曜石
 tile.ench_obs_dummy.name=附魔黑曜石
 
 //tabs
+
 itemGroup.gadgets=神秘宝具
 
 //entity
+
 entity.observer.name=邪恶观测者
 
 //Research Categories
+
 tc.research_category.GADGETS=神秘宝具
 
+//Research Descriptions
+
+research.tg:FABRIC.text=扫描魔力布匹
+research.tg:CARPET.text=扫描地毯
+research.tg:CHEST.text=扫描箱子
+research.tg:HUNGRY_CHEST.text=扫描饕餮箱子
+research.tg:MAGIC_POUCH.text=扫描魔法手袋
+research.tg:ENDER_CHEST.text=扫描末影箱
+research.tg:ENDER_POUCH.text=扫描末影手袋
+research.tg:ARMOR_STAND.text=扫描盔甲架
+research.tg:BLAZE.text=扫描火焰
+research.tg:WOLF.text=扫描狼
+research.tg:ZOMBIE.text=扫描僵尸
+research.tg:SKELETON.text=扫描骷髅
+research.tg:SKELETON_WITHER.text=扫描凋灵骷髅
+research.tg:SAND.text=扫描沙子
+research.tg:NETHERRACK.text=扫描下界岩
+research.tg:DIRT.text=扫描泥土
+research.tg:PODZOL.text=扫描灰化土
+research.tg:GRASS.text=扫描玻璃
+research.tg:COARSE_DIRT.text=扫描砂土
+research.tg:CLAY.text=扫描黏土
+research.tg:SHEEP.text=扫描羊
+research.tg:COW.text=扫描牛
+research.tg:CHICKEN.text=扫描鸡
+research.tg:PIG.text=扫描猪
+research.tg:HORSE.text=扫描马
+research.tg:RABBIT.text=扫描兔子
+research.tg:LLAMA.text=扫描羊驼
+research.tg:CRACKED_STONE.text=扫描裂纹石砖
+research.tg:CLOCK.text=扫描钟
+research.tg:THAUM_PICKAXE.text=扫描神秘镐
+research.tg:THAUM_EXTRUDER.text=扫描神秘造石机
+research.tg:OBSIDIAN.text=扫描黑曜石
+research.tg:SOUL_SAND.text=扫描灵魂沙
+research.tg:TORCH.text=扫描火把
+research.tg:THAUM_INGOT.text=扫描神秘锭
+research.tg:BLOCK_SHADE.text=扫描暗影金属块
+research.tg:BLOCK_LIGHT.text=扫描光明金属块
+research.tg:THAUM_HELM.text=扫描神秘头盔
+research.tg:THAUM_BOOTS.text=扫描神秘靴子
+research.tg:THAUM_CHEST.text=扫描神秘胸甲
+research.tg:THAUM_LEGS.text=扫描神秘护腿
+research.tg:SING_PEARL.text=扫描元始珍珠
+research.tg:THAUM_BOSS.text=扫描任意神秘时代的BOSS
+research.tg:VOID_SWORD.text=扫描虚空剑
+research.tg:VOID_AXE.text=扫描虚空斧
+research.tg:CRYSTAL_OVAL_AIR.text=扫描椭圆晶体(Aer)
+research.tg:CRYSTAL_OVAL_FIRE.text=扫描椭圆晶体(Ignis)
+research.tg:CRYSTAL_OVAL_WATER.text=扫描椭圆晶体(Aqua)
+research.tg:CRYSTAL_OVAL_EARTH.text=扫描椭圆晶体(Terra)
+research.tg:CRYSTAL_OVAL_ORDER.text=扫描椭圆晶体(Ordo)
+research.tg:CRYSTAL_OVAL_ENTROPY.text=扫描椭圆晶体(Perditio)
+research.tg:LIGHT_HELM.text=扫描光明头盔
+research.tg:LIGHT_CHEST.text=扫描光明胸甲
+research.tg:LIGHT_LEGS.text=扫描光明护腿
+research.tg:LIGHT_BOOTS.text=扫描光明之靴
+research.tg:SHADE_HELM.text=扫描暗影头盔
+research.tg:SHADE_CHEST.text=扫描暗影胸甲
+research.tg:SHADE_LEGS.text=扫描暗影护腿
+research.tg:SHADE_BOOTS.text=扫描暗影之靴
+research.tg:OAK_LEAVES.text=扫描橡树树叶
+research.tg:DOUBLE_GRASS.text=扫描高草丛
+research.tg:VILLAGER.text=扫描村民
+research.tg:ELDRITCH_GUARD.text=扫描邪术守卫
+research.tg:WITHER.text=扫描凋零
+research.tg:DIAMOND.text=扫描钻石
+research.tg:EMERALD.text=扫描绿宝石
+research.tg:AMBER.text=扫描琥珀
+research.tg:QUARTZ.text=扫描下界石英
+research.tg:BOW.text=扫描弓
+research.tg:ARROW.text=扫描箭
+research.tg:IRON_SWORD.text=扫描铁剑
+research.tg:IRON_PICKAXE.text=扫描铁镐
+research.tg:DECHANTMENT.text=扫描祛魔台
+research.tg:ENCH_BOOK.text=扫描任一附魔书
+research.tg:EXP.text=扫描经验球
+research.tg:EYE.text=扫描远古之眼
+research.tg:DRAGON_EGG.text=扫描龙蛋
+research.tg:ENDERMAN.text=扫描末影人
+research.tg:ENDER_PEARL.text=扫描末影珍珠
+research.tg:CRIMSON_PORTAL.text=扫描血腥传送门
+research.tg:THAUMOMETR.text=扫描魔导透镜
+research.tg:GLASS.text=扫描玻璃块
+research.tg:GEMCUTTER.text=扫描晶体加工台
+research.tg:GOGGLES.text=扫描揭示者之护目镜
+research.tg:LENSE_ECHO_LOC.text=扫描回声定位透镜
+research.tg:LENSE_NIGHT_VISION.text=扫描夜视透镜
+research.tg:DEATH_GAZE.text=扫描死亡凝视透镜
+research.tg:COMPASS.text=扫描指南针
+research.tg:MAP.text=扫描空地图
+research.tg:END_PORTAL.text=扫描末地传送门
+research.tg:NETHER_PORTAL.text=扫描下界传送门
+research.tg:ENDER_EYE.text=扫描末影之眼
+
 //Researches
+
 research.THAUMICGADGETS.title=神秘宝具
 research.THAUMICGADGETS.stage.1=一条新道路的开端
 
@@ -383,96 +497,3 @@ research.TG_CONTROL_CHANT.stage.2=这比你所期望的还简单。为了完全�
 research.TG_TELEPORTATOR.title=传送塔
 research.TG_TELEPORTATOR.stage.1=看着末影人和他那看似自发性的瞬移，你发现那并不是偶然发生的—他能完全控制它。你萌生了一个想法，创造一个可控制的空间传送。然而事实是你不是末影人，也不能移植一个负责这个功能的器官，这很不现实，这有必要去创造一个机器结构去模仿这个功能...
 research.TG_TELEPORTATOR.stage.2=然后你成功创造出来了。传送塔是一个相当复杂的多方块结构，能把整片空间带到连接着现实的人造虫洞。为了达到这些目的，你需要创建一个特殊的平台，在它上面是能够被转移的可携带的“空间”，包括围绕在传送塔框架内的球形空间。一个特殊的空间矩阵将会控制这个“空间”的移动。不幸的是，传送只能发生在与其它相同的传送塔之间。在相同时间内，你要么只是拥有它，要么你需要它将你传送到其它的传送塔。 <PAGE>这个操作系统有一个特殊接口。在它里面，你可以选择你想要传送过去的传送塔（对你而言可用的），选择那些可以（或不可以）与你一同传送的生物，以及充能进度条和开始传送的按钮。所有的生物和物品都能在平台上，且无论是谁激活传送都能在传送塔中穿梭（除了那些没被许可传送的生物）。<PAGE>在这个过程中，会有一些细微差别—传送塔能把你传送到另一个传送点...一个不再存在的传送点。尽管，你能从中得到些好处...大概吧...在任何情况，你都有种“重新发明了传送”的奇特感觉。
-
-research.tg:FABRIC.text=扫描魔力布匹
-research.tg:CARPET.text=扫描地毯
-research.tg:CHEST.text=扫描箱子
-research.tg:HUNGRY_CHEST.text=扫描饕餮箱子
-research.tg:MAGIC_POUCH.text=扫描魔法手袋
-research.tg:ENDER_CHEST.text=扫描末影箱
-research.tg:ENDER_POUCH.text=扫描末影手袋
-research.tg:ARMOR_STAND.text=扫描盔甲架
-research.tg:BLAZE.text=扫描火焰
-research.tg:WOLF.text=扫描狼
-research.tg:ZOMBIE.text=扫描僵尸
-research.tg:SKELETON.text=扫描骷髅
-research.tg:SKELETON_WITHER.text=扫描凋灵骷髅
-research.tg:SAND.text=扫描沙子
-research.tg:NETHERRACK.text=扫描下界岩
-research.tg:DIRT.text=扫描泥土
-research.tg:PODZOL.text=扫描灰化土
-research.tg:GRASS.text=扫描玻璃
-research.tg:COARSE_DIRT.text=扫描砂土
-research.tg:CLAY.text=扫描黏土
-research.tg:SHEEP.text=扫描羊
-research.tg:COW.text=扫描牛
-research.tg:CHICKEN.text=扫描鸡
-research.tg:PIG.text=扫描猪
-research.tg:HORSE.text=扫描马
-research.tg:RABBIT.text=扫描兔子
-research.tg:LLAMA.text=扫描羊驼
-research.tg:CRACKED_STONE.text=扫描裂纹石砖
-research.tg:CLOCK.text=扫描钟
-research.tg:THAUM_PICKAXE.text=扫描神秘镐
-research.tg:THAUM_EXTRUDER.text=扫描神秘造石机
-research.tg:OBSIDIAN.text=扫描黑曜石
-research.tg:SOUL_SAND.text=扫描灵魂沙
-research.tg:TORCH.text=扫描火把
-research.tg:THAUM_INGOT.text=扫描神秘锭
-research.tg:BLOCK_SHADE.text=扫描暗影金属块
-research.tg:BLOCK_LIGHT.text=扫描光明金属块
-research.tg:THAUM_HELM.text=扫描神秘头盔
-research.tg:THAUM_BOOTS.text=扫描神秘靴子
-research.tg:THAUM_CHEST.text=扫描神秘胸甲
-research.tg:THAUM_LEGS.text=扫描神秘护腿
-research.tg:SING_PEARL.text=扫描元始珍珠
-research.tg:THAUM_BOSS.text=扫描任意神秘时代的BOSS
-research.tg:VOID_SWORD.text=扫描虚空剑
-research.tg:VOID_AXE.text=扫描虚空斧
-research.tg:CRYSTAL_OVAL_AIR.text=扫描椭圆晶体(Aer)
-research.tg:CRYSTAL_OVAL_FIRE.text=扫描椭圆晶体(Ignis)
-research.tg:CRYSTAL_OVAL_WATER.text=扫描椭圆晶体(Aqua)
-research.tg:CRYSTAL_OVAL_EARTH.text=扫描椭圆晶体(Terra)
-research.tg:CRYSTAL_OVAL_ORDER.text=扫描椭圆晶体(Ordo)
-research.tg:CRYSTAL_OVAL_ENTROPY.text=扫描椭圆晶体(Perditio)
-research.tg:LIGHT_HELM.text=扫描光明头盔
-research.tg:LIGHT_CHEST.text=扫描光明胸甲
-research.tg:LIGHT_LEGS.text=扫描光明护腿
-research.tg:LIGHT_BOOTS.text=扫描光明之靴
-research.tg:SHADE_HELM.text=扫描暗影头盔
-research.tg:SHADE_CHEST.text=扫描暗影胸甲
-research.tg:SHADE_LEGS.text=扫描暗影护腿
-research.tg:SHADE_BOOTS.text=扫描暗影之靴
-research.tg:OAK_LEAVES.text=扫描橡树树叶
-research.tg:DOUBLE_GRASS.text=扫描高草丛
-research.tg:VILLAGER.text=扫描村民
-research.tg:ELDRITCH_GUARD.text=扫描邪术守卫
-research.tg:WITHER.text=扫描凋零
-research.tg:DIAMOND.text=扫描钻石
-research.tg:EMERALD.text=扫描绿宝石
-research.tg:AMBER.text=扫描琥珀
-research.tg:QUARTZ.text=扫描下界石英
-research.tg:BOW.text=扫描弓
-research.tg:ARROW.text=扫描箭
-research.tg:IRON_SWORD.text=扫描铁剑
-research.tg:IRON_PICKAXE.text=扫描铁镐
-research.tg:DECHANTMENT.text=扫描祛魔台
-research.tg:ENCH_BOOK.text=扫描任一附魔书
-research.tg:EXP.text=扫描经验球
-research.tg:EYE.text=扫描远古之眼
-research.tg:DRAGON_EGG.text=扫描龙蛋
-research.tg:ENDERMAN.text=扫描末影人
-research.tg:ENDER_PEARL.text=扫描末影珍珠
-research.tg:CRIMSON_PORTAL.text=扫描血腥传送门
-research.tg:THAUMOMETR.text=扫描魔导透镜
-research.tg:GLASS.text=扫描玻璃块
-research.tg:GEMCUTTER.text=扫描晶体加工台
-research.tg:GOGGLES.text=扫描揭示者之护目镜
-research.tg:LENSE_ECHO_LOC.text=扫描回声定位透镜
-research.tg:LENSE_NIGHT_VISION.text=扫描夜视透镜
-research.tg:DEATH_GAZE.text=扫描死亡凝视透镜
-research.tg:COMPASS.text=扫描指南针
-research.tg:MAP.text=扫描空地图
-research.tg:END_PORTAL.text=扫描末地传送门
-research.tg:NETHER_PORTAL.text=扫描下界传送门
-research.tg:ENDER_EYE.text=扫描末影之眼
