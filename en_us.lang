@@ -6,6 +6,7 @@ key.tg.armor_ability=Armor Ability
 key.tg.lense_gui=Open Lense GUI
 
 //Items
+
 item.tg.name=Thaumic Gadgets' Symbol
 
 item.tool_gemcutter.name=Gemcutter's Tools
@@ -204,6 +205,7 @@ tile.light_rose.name=Light Rose
 enchantment.regen_primal=Primal Regeneration
 
 //description
+
 teleportator.description.name=Teleportator Name:
 teleportator.description.pos=Position:
 teleportator.description.choose_address=Choose Desired Point:
@@ -224,15 +226,114 @@ tile.ench_obs.name=Enchanted Obsidian
 tile.ench_obs_dummy.name=Enchanted Obsidian
 
 //tabs
+
 itemGroup.gadgets=Thaumic Gadgets
 
 //entity
+
 entity.observer.name=Corrupted Observer
 
 //Research Categories
+
 tc.research_category.GADGETS=Thaumic Gadgets
 
+//Research Descriptions
+
+research.tg:FABRIC.text=Scan Enchanted Fabric
+research.tg:CARPET.text=Scan Carpet
+research.tg:CHEST.text=Scan Chest
+research.tg:HUNGRY_CHEST.text=Scan Hungry Chest
+research.tg:MAGIC_POUCH.text=Scan Magic Pouch
+research.tg:ENDER_CHEST.text=Scan Ender Chest
+research.tg:ENDER_POUCH.text=Scan Ender Pouch
+research.tg:ARMOR_STAND.text=Scan Armor Stand
+research.tg:BLAZE.text=Scan Blaze
+research.tg:WOLF.text=Scan Wolf
+research.tg:ZOMBIE.text=Scan Zombie
+research.tg:SKELETON.text=Scan Skeleton
+research.tg:SKELETON_WITHER.text=Scan Wither Skeleton
+research.tg:SAND.text=Scan Sand
+research.tg:NETHERRACK.text=Scan Netherrack
+research.tg:DIRT.text=Scan Dirt
+research.tg:PODZOL.text=Scan Podzol
+research.tg:GRASS.text=Scan Grass
+research.tg:COARSE_DIRT.text=Scan Coarse Dirt
+research.tg:CLAY.text=Scan Clay
+research.tg:SHEEP.text=Scan Sheep
+research.tg:COW.text=Scan Cow
+research.tg:CHICKEN.text=Scan Chicken
+research.tg:PIG.text=Scan Pig
+research.tg:HORSE.text=Scan Horse
+research.tg:RABBIT.text=Scan Rabbit
+research.tg:LLAMA.text=Scan Llama
+research.tg:CRACKED_STONE.text=Scan Cracked Stone Bricks
+research.tg:CLOCK.text=Scan Clock
+research.tg:THAUM_PICKAXE.text=Scan Thaumium Pickaxe
+research.tg:THAUM_EXTRUDER.text=Scan Thaumic Stone Extruder
+research.tg:OBSIDIAN.text=Scan Obsidian
+research.tg:SOUL_SAND.text=Scan Soul Sand
+research.tg:TORCH.text=Scan Torch
+research.tg:THAUM_INGOT.text=Scan Thaumium Ingot
+research.tg:BLOCK_SHADE.text=Scan Shaded Block
+research.tg:BLOCK_LIGHT.text=Scan Block of Light
+research.tg:THAUM_HELM.text=Scan Thaumium Helmet
+research.tg:THAUM_BOOTS.text=Scan Thaumium Boots
+research.tg:THAUM_CHEST.text=Scan Thaumium Chestplate
+research.tg:THAUM_LEGS.text=Scan Thaumium Leggins
+research.tg:SING_PEARL.text=Scan Primordial Pearl
+research.tg:THAUM_BOSS.text=Scan Any Thaumcraft Boss
+research.tg:VOID_SWORD.text=Scan Void Sword
+research.tg:VOID_AXE.text=Scan Void Axe
+research.tg:CRYSTAL_OVAL_AIR.text=Scan Oval Aer Crystal
+research.tg:CRYSTAL_OVAL_FIRE.text=Scan Oval Ingis Crystal
+research.tg:CRYSTAL_OVAL_WATER.text=Scan Oval Aqua Crystal
+research.tg:CRYSTAL_OVAL_EARTH.text=Scan Oval Terra Crystal
+research.tg:CRYSTAL_OVAL_ORDER.text=Scan Oval Ordo Crystal
+research.tg:CRYSTAL_OVAL_ENTROPY.text=Scan Oval Perditio Crystal
+research.tg:LIGHT_HELM.text=Scan Helmet of Light
+research.tg:LIGHT_CHEST.text=Scan Chestplate of Light
+research.tg:LIGHT_LEGS.text=Scan Leggins of Light
+research.tg:LIGHT_BOOTS.text=Scan Boots of Light
+research.tg:SHADE_HELM.text=Scan Shaded Helmet
+research.tg:SHADE_CHEST.text=Scan Shaded Chestplate
+research.tg:SHADE_LEGS.text=Scan Shaded Leggins
+research.tg:SHADE_BOOTS.text=Scan Boots
+research.tg:OAK_LEAVES.text=Scan Oak Leaves
+research.tg:DOUBLE_GRASS.text=Scan Tall Grass
+research.tg:VILLAGER.text=Scan Villager
+research.tg:ELDRITCH_GUARD.text=Scan Eldritch Guardian
+research.tg:WITHER.text=Scan Wither
+research.tg:DIAMOND.text=Scan Diamond
+research.tg:EMERALD.text=Scan Emerald
+research.tg:AMBER.text=Scan Amber
+research.tg:QUARTZ.text=Scan Nether Quartz
+research.tg:BOW.text=Scan Bow
+research.tg:ARROW.text=Scan Arrow
+research.tg:IRON_SWORD.text=Scan Iron Sword
+research.tg:IRON_PICKAXE.text=Scan Iron Pickaxe
+research.tg:DECHANTMENT.text=Scan Dechantment Table
+research.tg:ENCH_BOOK.text=Scan Any Enchanted Book
+research.tg:EXP.text=Scan Experience Orb
+research.tg:EYE.text=Scan Eye of Ancient
+research.tg:DRAGON_EGG.text=Scan Dragon Egg
+research.tg:ENDERMAN.text=Scan Enderman
+research.tg:ENDER_PEARL.text=Scan Ender Pearl
+research.tg:CRIMSON_PORTAL.text=Scan Crimson Portal
+research.tg:THAUMOMETR.text=Scan Thaumometr
+research.tg:GLASS.text=Scan Glass Block
+research.tg:GEMCUTTER.text=Scan Gemcutter Table
+research.tg:GOGGLES.text=Scan Goggles of Revealing
+research.tg:LENSE_ECHO_LOC.text=Scan Echo Loc Lense
+research.tg:LENSE_NIGHT_VISION.text=Scan Night Vision Lense
+research.tg:DEATH_GAZE.text=Scan Death Gaze Lense
+research.tg:COMPASS.text=Scan Compass
+research.tg:MAP.text=Scan Empty Map
+research.tg:END_PORTAL.text=Scan End Portal
+research.tg:NETHER_PORTAL.text=Scan Nether Portal
+research.tg:ENDER_EYE.text=Scan Ender Eye
+
 //Researches
+
 research.THAUMICGADGETS.title=Thaumic Gadgets
 research.THAUMICGADGETS.stage.1=The beginning of a new way
 
@@ -396,96 +497,3 @@ research.TG_CONTROL_CHANT.stage.2=You expected that it would be much easier. To 
 research.TG_TELEPORTATOR.title=Teleportator
 research.TG_TELEPORTATOR.stage.1=Watching the Endermen and his, seemingly, spontaneous teleports, you found that they are more than not accidental - he completely controls them. And you came up with the idea of creating controlled teleports in space. But since by nature you are not enderman, and you can't implant yourself with an organ responsible for this, it is simply unrealistic, then it will be necessary to create a mechanism that mimics this...
 research.TG_TELEPORTATOR.stage.2=And you created it. The Teleporter is a rather complex structure that carries whole pieces of space between artificially created holes in reality. For these purposes, you will need to create a special Platform on which the portable "space" will be placed, as well as the Restricting Circle around it. A special Spatial Matrix will control the movement of this "space". Unfortunately, the transfer can only be carried out between other similar structures. At the same time, you either have to own it, or you will need it to be allowed to move to it. <PAGE>The motion control system has a special interface. In it, you can select the point where you want to move (from the ones available to you), select those you allow (or do not allow) to navigate to you, as well as the charge indicator and the teleport start button. All those who stand on the platform, and not only those who activated the teleport (unauthorized creatures will not be moved) can move through the teleporter. <PAGE>In this case, there is one nuance - the teleporter can transfer you to another telepointer... Which no longer exists. Although, from this you can benefit ... Probably ... In any case, you have stange feeling what you "re-invented the bike"...
-
-research.tg:FABRIC.text=Scan Enchanted Fabric
-research.tg:CARPET.text=Scan Carpet
-research.tg:CHEST.text=Scan Chest
-research.tg:HUNGRY_CHEST.text=Scan Hungry Chest
-research.tg:MAGIC_POUCH.text=Scan Magic Pouch
-research.tg:ENDER_CHEST.text=Scan Ender Chest
-research.tg:ENDER_POUCH.text=Scan Ender Pouch
-research.tg:ARMOR_STAND.text=Scan Armor Stand
-research.tg:BLAZE.text=Scan Blaze
-research.tg:WOLF.text=Scan Wolf
-research.tg:ZOMBIE.text=Scan Zombie
-research.tg:SKELETON.text=Scan Skeleton
-research.tg:SKELETON_WITHER.text=Scan Wither Skeleton
-research.tg:SAND.text=Scan Sand
-research.tg:NETHERRACK.text=Scan Netherrack
-research.tg:DIRT.text=Scan Dirt
-research.tg:PODZOL.text=Scan Podzol
-research.tg:GRASS.text=Scan Grass
-research.tg:COARSE_DIRT.text=Scan Coarse Dirt
-research.tg:CLAY.text=Scan Clay
-research.tg:SHEEP.text=Scan Sheep
-research.tg:COW.text=Scan Cow
-research.tg:CHICKEN.text=Scan Chicken
-research.tg:PIG.text=Scan Pig
-research.tg:HORSE.text=Scan Horse
-research.tg:RABBIT.text=Scan Rabbit
-research.tg:LLAMA.text=Scan Llama
-research.tg:CRACKED_STONE.text=Scan Cracked Stone Bricks
-research.tg:CLOCK.text=Scan Clock
-research.tg:THAUM_PICKAXE.text=Scan Thaumium Pickaxe
-research.tg:THAUM_EXTRUDER.text=Scan Thaumic Stone Extruder
-research.tg:OBSIDIAN.text=Scan Obsidian
-research.tg:SOUL_SAND.text=Scan Soul Sand
-research.tg:TORCH.text=Scan Torch
-research.tg:THAUM_INGOT.text=Scan Thaumium Ingot
-research.tg:BLOCK_SHADE.text=Scan Shaded Block
-research.tg:BLOCK_LIGHT.text=Scan Block of Light
-research.tg:THAUM_HELM.text=Scan Thaumium Helmet
-research.tg:THAUM_BOOTS.text=Scan Thaumium Boots
-research.tg:THAUM_CHEST.text=Scan Thaumium Chestplate
-research.tg:THAUM_LEGS.text=Scan Thaumium Leggins
-research.tg:SING_PEARL.text=Scan Primordial Pearl
-research.tg:THAUM_BOSS.text=Scan Any Thaumcraft Boss
-research.tg:VOID_SWORD.text=Scan Void Sword
-research.tg:VOID_AXE.text=Scan Void Axe
-research.tg:CRYSTAL_OVAL_AIR.text=Scan Oval Aer Crystal
-research.tg:CRYSTAL_OVAL_FIRE.text=Scan Oval Ingis Crystal
-research.tg:CRYSTAL_OVAL_WATER.text=Scan Oval Aqua Crystal
-research.tg:CRYSTAL_OVAL_EARTH.text=Scan Oval Terra Crystal
-research.tg:CRYSTAL_OVAL_ORDER.text=Scan Oval Ordo Crystal
-research.tg:CRYSTAL_OVAL_ENTROPY.text=Scan Oval Perditio Crystal
-research.tg:LIGHT_HELM.text=Scan Helmet of Light
-research.tg:LIGHT_CHEST.text=Scan Chestplate of Light
-research.tg:LIGHT_LEGS.text=Scan Leggins of Light
-research.tg:LIGHT_BOOTS.text=Scan Boots of Light
-research.tg:SHADE_HELM.text=Scan Shaded Helmet
-research.tg:SHADE_CHEST.text=Scan Shaded Chestplate
-research.tg:SHADE_LEGS.text=Scan Shaded Leggins
-research.tg:SHADE_BOOTS.text=Scan Boots
-research.tg:OAK_LEAVES.text=Scan Oak Leaves
-research.tg:DOUBLE_GRASS.text=Scan Tall Grass
-research.tg:VILLAGER.text=Scan Villager
-research.tg:ELDRITCH_GUARD.text=Scan Eldritch Guardian
-research.tg:WITHER.text=Scan Wither
-research.tg:DIAMOND.text=Scan Diamond
-research.tg:EMERALD.text=Scan Emerald
-research.tg:AMBER.text=Scan Amber
-research.tg:QUARTZ.text=Scan Nether Quartz
-research.tg:BOW.text=Scan Bow
-research.tg:ARROW.text=Scan Arrow
-research.tg:IRON_SWORD.text=Scan Iron Sword
-research.tg:IRON_PICKAXE.text=Scan Iron Pickaxe
-research.tg:DECHANTMENT.text=Scan Dechantment Table
-research.tg:ENCH_BOOK.text=Scan Any Enchanted Book
-research.tg:EXP.text=Scan Experience Orb
-research.tg:EYE.text=Scan Eye of Ancient
-research.tg:DRAGON_EGG.text=Scan Dragon Egg
-research.tg:ENDERMAN.text=Scan Enderman
-research.tg:ENDER_PEARL.text=Scan Ender Pearl
-research.tg:CRIMSON_PORTAL.text=Scan Crimson Portal
-research.tg:THAUMOMETR.text=Scan Thaumometr
-research.tg:GLASS.text=Scan Glass Block
-research.tg:GEMCUTTER.text=Scan Gemcutter Table
-research.tg:GOGGLES.text=Scan Goggles of Revealing
-research.tg:LENSE_ECHO_LOC.text=Scan Echo Loc Lense
-research.tg:LENSE_NIGHT_VISION.text=Scan Night Vision Lense
-research.tg:DEATH_GAZE.text=Scan Death Gaze Lense
-research.tg:COMPASS.text=Scan Compass
-research.tg:MAP.text=Scan Empty Map
-research.tg:END_PORTAL.text=Scan End Portal
-research.tg:NETHER_PORTAL.text=Scan Nether Portal
-research.tg:ENDER_EYE.text=Scan Ender Eye
